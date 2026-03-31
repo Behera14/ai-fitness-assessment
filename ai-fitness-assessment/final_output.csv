@@ -1,0 +1,9 @@
+id,amount_txn,amount_bank,issue
+1,100.0,100.0,Rounding Issue
+2,200.0,200.0,Rounding Issue
+3,300.0,300.0,Settlement Delay
+4,100.005,100.0,Duplicate Entry
+4,100.005,100.0,Duplicate Entry
+5,500.0,,Missing Settlement
+6,-150.0,,Missing Settlement
+7,,-150.0,Missing Transaction

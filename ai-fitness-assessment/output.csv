@@ -1,0 +1,9 @@
+id,amount_txn,date_txn,amount_bank,date_bank,issue
+1,100.0,2024-01-01,100.0,2024-01-02,Rounding Issue
+2,200.0,2024-01-01,200.0,2024-01-02,Rounding Issue
+3,300.0,2024-01-31,300.0,2024-02-01,Settlement Delay
+4,100.005,2024-01-15,100.0,2024-01-16,Duplicate Entry
+4,100.005,2024-01-15,100.0,2024-01-16,Duplicate Entry
+5,500.0,2024-01-20,,,Missing Settlement
+6,-150.0,2024-01-25,,,Missing Settlement
+7,,,-150.0,2024-01-26,Missing Transaction
